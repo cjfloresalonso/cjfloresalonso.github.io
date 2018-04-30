@@ -1,1 +1,4 @@
 template.html
+*.scss
+*.css.map
+bootstrap
