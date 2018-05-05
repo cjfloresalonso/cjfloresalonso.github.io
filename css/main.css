@@ -8554,4 +8554,10 @@ h3 {
   line-height: 1.2;
 }
 
+@media (min-width: 768px) {
+  body > section.container-fluid {
+    width: 80%;
+  }
+}
+
 /*# sourceMappingURL=file:///mnt/c/Users/cjflores/GitHub/cjfloresalonso.github.io/css//main.css.map */
